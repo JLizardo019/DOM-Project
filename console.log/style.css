@@ -1,0 +1,16 @@
+/* DO NOT CHANGE ANY OF THIS CODE */
+
+.main {
+    text-align: center;
+}
+
+.main img {
+    width: 20%;
+}
+
+body {
+    background: url("cursor.gif") no-repeat center center fixed;
+
+    
+}
+
